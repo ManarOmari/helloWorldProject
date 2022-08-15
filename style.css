@@ -1,0 +1,9 @@
+.head {
+    color: blue;
+    border: 2px solid blue;
+    margin-top: 40px;
+    padding: 20px;
+    width: 700px;
+    text-align: center;
+    margin-left: 250px;
+}
